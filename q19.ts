@@ -1,5 +1,5 @@
-// exercise 17
-// let guest_list :string[] = ['Shagufta','Tariq','azim','sadia'];
+
+let guest_list :string[] = ['Shagufta','Tariq','azim','sadia'];
 // let new_Guest :string = 'Fatima' ;
 
 // guest_list[0] = new_Guest ;
@@ -34,4 +34,9 @@ while(guest_list.length > 2){
 
 guest_list.splice(0, 2);
 console.log(guest_list); 
+
  
+// exercise 19 
+
+
+console.log(`Total number of Guset Are: ${guest_list.length}`)
