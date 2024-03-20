@@ -1,15 +1,15 @@
 {
-  "name": "q3",
+  "name": "q18",
   "version": "1.0.0",
   "description": "",
-  "main": "Ts q3.js",
+  "main": "q18.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.20"
+  "dependencies": {
+    "@types/node": "^20.11.24"
   }
 }
